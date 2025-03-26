@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dev Taluja
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODltY2pjaGUwYndweWlwdHMwdjEwbmx2cnVnbWUwM3RscW10YngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)" width="300px" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODltY2pjaGUwYndweWlwdHMwdjEwbmx2cnVnbWUwM3RscW10YngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="300px" />
   <br><br>
   <p><strong>AI Developer / Designer crafting intelligent solutions</strong></p>
 </div>
