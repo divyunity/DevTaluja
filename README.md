@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dev Taluja
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif" width="300px" />
+  <img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODltY2pjaGUwYndweWlwdHMwdjEwbmx2cnVnbWUwM3RscW10YngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)" width="300px" />
   <br><br>
   <p><strong>AI Developer / Designer crafting intelligent solutions</strong></p>
 </div>
@@ -51,17 +51,7 @@
 
 ## 🔗 Connect With Me
 
-<div align="center">
-  <a href="https://github.com/DevTaluja" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dev-taluja/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/dev_taluja/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+
 
 ---
 
