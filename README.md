@@ -38,16 +38,7 @@
 - 💬 Ask me about **AI, programming, and development**
 - 📫 How to reach me: **aroradevansh06@gmail.com**
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevTaluja&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTaluja&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</div>
-
-## ✨ Fun Fact
-
-> "A day without innovation is just another day unlived."
 
 ## 🔗 Connect With Me
 
